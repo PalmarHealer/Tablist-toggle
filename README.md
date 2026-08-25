@@ -43,6 +43,7 @@ Built from one source tree, so every version below ships the exact same feature.
 | 1.20.6    |   ✅    |    ✅    |
 | 1.21.1    |   ✅    |    ✅    |
 | 1.21.7    |   ✅    |    ✅    |
+| 1.21.11   |   ✅    |    -     |
 | 26.1.2    |   ✅    |    ✅    |
 
 1.20.6 is the oldest supported version: from there up the Controls screen exposes a clean
